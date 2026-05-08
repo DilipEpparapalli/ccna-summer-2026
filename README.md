@@ -8,3 +8,4 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 
 ### Day 2 — Network Design, Data Centers, WAN, SOHO Security, Hybrid Cloud, Ethernet Cables
 
+### Day 3 — PoE, Fiber Optic Cables, Port Security, and Packet Tracer intro.

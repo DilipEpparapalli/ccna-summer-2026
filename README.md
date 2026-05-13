@@ -15,3 +15,5 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 ### Day 5 — Introduction to the Castle Rysen RFP
 
 ### Day 6 — LAN, WAN, and the Client_Server Model
+
+### Day 7  —  Switches, Wireless, Routers, and Firewalls — LAN Foundations

@@ -21,3 +21,6 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 ### Day 8  — Network Standards, Physical Connections & Bits vs Bytes.
 
 ### Day 9  — Copper Cabling Standards, Straight-Through, Crossover, and Auto MDI-X, Fiber Optic Cabling.
+
+### Day 10 — Network Diagrams - Logical, Physical, and ryan coffe house in packet tracer
+

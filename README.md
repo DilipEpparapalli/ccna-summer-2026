@@ -24,3 +24,6 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 
 ### Day 10 — Network Diagrams - Logical, Physical, and ryan coffe house in packet tracer
 
+### Day 11 —  Network Models and Network design
+
+### Day 12 — Console connection

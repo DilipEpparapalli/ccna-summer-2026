@@ -29,3 +29,6 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 ### Day 12 — Console connection
 
 ### Day 13 — Cisco Device Boot Process, Navigating Cisco IOS, Cisco Switch Base Configuration
+
+### Day 14 —  Cisco Base Configuration lab and Saving or Resetting Cisco Configurations lab
+

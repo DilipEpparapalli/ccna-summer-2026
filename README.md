@@ -32,3 +32,5 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 
 ### Day 14 —  Cisco Base Configuration lab and Saving or Resetting Cisco Configurations lab
 
+### Day 15 — Lab and MAC Addresses, Frames, and How Switches Think
+

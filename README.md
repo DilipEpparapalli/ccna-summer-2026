@@ -34,3 +34,4 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 
 ### Day 15 — Lab and MAC Addresses, Frames, and How Switches Think
 
+### Day 16 — How switch works, ports, cam table and lab.

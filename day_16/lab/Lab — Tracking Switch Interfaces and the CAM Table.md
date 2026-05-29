@@ -1,7 +1,7 @@
 
 ## Topology
 
-![[Pasted image 20260526195847.png]]
+![[ccna-summer-2026/day_16/lab/Topology.png]]
 ## What I Did
 
 ### Step 1 — Enter privileged mode

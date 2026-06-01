@@ -38,3 +38,6 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 
 ### Day 17 — Switch cam table labs.
 
+### Day 18 — Lab and IP addressing,why it exists .
+
+

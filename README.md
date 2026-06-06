@@ -43,3 +43,6 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 ### Day 19 — Subnet Masks, Private vs Public IPs, and Subnetting Basics
 
 ### Day 20 — Switch Configuration and lab
+
+### Day 21 — Router Configuration ,Interface counters and Labs
+

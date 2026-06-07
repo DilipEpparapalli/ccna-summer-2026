@@ -3,7 +3,7 @@
 Jeremy wants the Coffee House network tied into the Fallout shelter floor so both sites can exchange services before the main WAN cutover. The routers are racked with baseline credentials and interface labels, but every port is still shut down. Your job is to activate the LAN facing links, light up the point-to-point handoff, and prove end-to-end reachability using only local routing.
 
 ### Circuit Diagram:
-![[Circuit_Diagram.png]]
+![[ccna-summer-2026/day_22/lab/Circuit_Diagram.png]]
 
 
 ## Objectives

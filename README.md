@@ -46,4 +46,6 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 
 ### Day 21 — Router Configuration ,Interface counters and Labs
 
-### Day 22 — Router Interface speeds and  lab
+### Day 22 — Router Interface speeds and Local Routing lab
+
+### Day 23 —  Routers, Connected Routes and Configuring Local Routing lab

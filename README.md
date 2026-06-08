@@ -49,3 +49,5 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 ### Day 22 — Router Interface speeds and Local Routing lab
 
 ### Day 23 —  Routers, Connected Routes and Configuring Local Routing lab
+
+### Day 24  — Default, Static Routing and Configuring default and static labs

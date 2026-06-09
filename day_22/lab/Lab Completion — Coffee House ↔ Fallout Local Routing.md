@@ -15,7 +15,7 @@
   Eth0/0                                          Eth0/0
 192.168.42.1                                  192.168.84.1
 ```
-![[ccna-summer-2026/day_22/lab/Circuit_Diagram.png]]
+![[ccna-summer-2026/day_22/lab/Network_Diagram.png]]
 
 
 ---

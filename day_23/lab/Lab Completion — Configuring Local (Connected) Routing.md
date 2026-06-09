@@ -16,7 +16,7 @@
   Eth0/0 (.1)──── Cafe-RT1 ──── Eth0/1 (.1)──(.2) Eth0/1 ──── Fallout-RT1 ──── Eth0/0 (.1)
   192.168.1.1                   192.168.2.1  192.168.2.2                        192.168.3.1
 ```
-![[ccna-summer-2026/day_23/lab/Circuit_Diagram.png]]
+![[ccna-summer-2026/day_23/lab/Network_Diagram.png]]
 
 ---
 

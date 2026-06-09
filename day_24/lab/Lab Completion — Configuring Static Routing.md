@@ -11,7 +11,7 @@
      |                                                    |
  Host: 192.168.1.50                            Server: 192.168.3.100
 ```
-![[ccna-summer-2026/day_24/lab/Circuit_diagram.png]]
+![[ccna-summer-2026/day_24/lab/Network_Diagram.png]]
 ---
 
 ## Task 0 — Baseline Verification

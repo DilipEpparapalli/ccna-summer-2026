@@ -11,7 +11,7 @@
      |
  Cafe-PC: 192.168.1.50
 ```
-![[Circuit_diagram_1.png]]
+![[ccna-summer-2026/day_24/lab/Network_Diagram_1.png]]
 ---
 
 ## Task 0 — Prepare the ISP Link

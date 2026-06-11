@@ -55,3 +55,7 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 ### Day 25  — Dynamic Configuration (EIGRP), Routing table and configuring dynamic routes labs 
 
 ### Day 26  — Network Documentation and static and  default routing lab
+
+### Day 27  — Network Address Translation(NAT) and lab
+
+

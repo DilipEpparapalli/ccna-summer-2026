@@ -63,3 +63,5 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 ### Day 29  — Dynamic,  NAT/PAT Overload and labs
 
 ### Day 30  —  NAT lab and Subnetting
+
+### Day 31  — Class A,B,C Subnetting

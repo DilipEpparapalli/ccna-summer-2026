@@ -58,4 +58,8 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 
 ### Day 27  — Network Address Translation(NAT) and lab
 
+### Day 28  — Cisco's NAT Terminology and Static NAT lab
 
+### Day 29  — Dynamic,  NAT/PAT Overload and labs
+
+### Day 30  —  NAT lab and Subnetting

@@ -67,3 +67,5 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 ### Day 31  — Class A,B,C Subnetting
 
 ### Day 32  — Subnetting practice
+
+### Day 33  — Variable Length Subnet  Mask (VLSM) practice

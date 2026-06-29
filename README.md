@@ -69,3 +69,11 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 ### Day 32  — Subnetting practice
 
 ### Day 33  — Variable Length Subnet  Mask (VLSM) practice
+
+### Day 34  — VLAN's and Labs
+
+### Day 35  — InterVLAN Routing ,Router on a Stick(ROS) and labs
+
+### Day 36  —  DTP, VTP , Native VLAN and labs
+
+

@@ -76,4 +76,7 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 
 ### Day 36  —  DTP, VTP , Native VLAN and labs
 
+### Day 37  — VLAN Implementation
+
+### Day 38  — Labs on VLAN, inter VLAN, ROS, DTP, VTP and  Native Vlan
 

@@ -80,3 +80,4 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 
 ### Day 38  — Labs on VLAN, inter VLAN, ROS, DTP, VTP and  Native Vlan
 
+### Day 39  —  STP Spanning Tree Protocol

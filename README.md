@@ -82,5 +82,7 @@ Following NetworkChuck's CCNA course and documenting everything I learn along th
 
 ### Day 39  —  STP Spanning Tree Protocol
 
-### Day 40 —  STP Port fast and BPDU guard
+### Day 40 —  STP Portstates, RSTP (Rapid Spanning Tree Protcol), MST(Multiple Spanning Tree Protocol) & Labs
+
+### Day 41 —  STP Port fast and BPDU guard & Labs
 
